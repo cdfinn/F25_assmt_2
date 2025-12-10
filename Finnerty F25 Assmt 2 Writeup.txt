@@ -1,0 +1,10 @@
+Charlie Finnerty
+Dec 10, 2025
+Adv. Data — Lam
+
+
+Since our last assignment, my capstone project has shifted to focus on Long Island City specifically and the high concentration of migrant shelters there. LIC's density of mostly empty hotels and office spaces — due to the industrial area's zoning laws — created a unique opportunity for the city to contract a large number of beds and rooms for asylum seekers. One of those former office complexes, Austell Place, became a shelter predominantly for single male arrivals. A nearby community garden, Smiling Hogshead Ranch, quickly became inundated with loitering asylum seekers with nowhere to go, given the neighborhood's lack of transit access and the inability for most asylum seekers to attain legal work permits.
+
+Using Python data analysis of 311 calls, I sought to investigate 311 complaints near Austell Place during the period the shelter was operating. Specifically, I wanted to see if 311 calls were more concentrated at the site of the actual shelter, or on Skillman Avenue where the community garden is housed.
+
+I was able to plot the data with matplotlib and found that Skillman Avenue 311 complaints by far outnumbered Austell Place complaints. I will now use this data to inform my reporting going forward as I seek to examine locals' relationship with the recently shuttered shelter. This data reflects the overall sentiment I have seen in my reporting of neighbors who were overall welcoming of the shelter and recognized a need to house people, but wanted to protect community spaces from the crowding, loitering and trash that a large influx of people brought with it.
